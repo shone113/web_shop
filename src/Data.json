@@ -1,0 +1,50 @@
+[
+    {
+        "id": 1,
+        "name": "Laptop",
+        "price": 900,
+        "image": "images/laptop.jpg",
+        "inStock": 1,
+        "fastDelivery": true
+    },
+    {
+        "id": 2,
+        "name": "Phone",
+        "price": 500,
+        "image": "images/phone.png",
+        "inStock": 3,
+        "fastDelivery": true
+    },
+    {
+        "id": 3,
+        "name": "Speaker",
+        "price": 90,
+        "image": "images/speaker.jpg",
+        "inStock": 0,
+        "fastDelivery": true
+    },
+    {
+        "id": 4,
+        "name": "Nike Tn",
+        "price": 220,
+        "image": "images/tn.png",
+        "inStock": 9,
+        "fastDelivery": true
+    },
+    {
+        "id": 5,
+        "name": "Wallet",
+        "price": 150,
+        "image": "images/wallet.png",
+        "inStock": 3,
+        "fastDelivery": false
+    },
+    {
+        "id": 6,
+        "name": "Watch",
+        "price": 400,
+        "image": "images/watch.png",
+        "inStock": 0,
+        "fastDelivery": false
+    }
+]
